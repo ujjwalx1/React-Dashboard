@@ -1,0 +1,23 @@
+
+.sidebar {
+  position: fixed;
+  width: 237px;
+  height: 719px;
+  top: -360px;
+  left: -119px;
+  padding: 35px 0px 35px 38px;
+  border-radius: 8px;
+  gap: 32px;
+  background: rgba(255, 255, 255, 1);
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.08);
+}
+
+nav li {
+  list-style: none;
+  padding: 10px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+
